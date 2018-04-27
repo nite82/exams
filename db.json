@@ -2,15 +2,15 @@
   "pendingexams": [
     {
       "examname": "Sample Test 1",
-      "time": "30",
+      "time": "30"
     },
     {
      "examname": "Sample Test 2",
-      "time": "60",
+      "time": "60"
     },
     {
       "examname": "Sample Test 3",
-      "time": "90",
+      "time": "90"
     }
   ],
   "comments": [
