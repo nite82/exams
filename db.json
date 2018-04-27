@@ -2,18 +2,15 @@
   "pendingexams": [
     {
       "name": "Sample Test 1",
-      "time": 30,
-      "date": "28-04-2018"
+      "time": 30
     },
     {
      "name": "Sample Test 2",
-      "time": 60,
-      "date": "30-04-2018"
+      "time": 60
     },
     {
       "name": "Sample Test 3",
-      "time": 90,
-      "date": "02-05-2018"
+      "time": 90
     }
   ]
 }
