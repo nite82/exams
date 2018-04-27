@@ -1,0 +1,31 @@
+{
+  "pendingexams": [
+    {
+      "examname": "Sample Test 1",
+      "time": "30",
+    },
+    {
+     "examname": "Sample Test 2",
+      "time": "60",
+    },
+    {
+      "examname": "Sample Test 3",
+      "time": "90",
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
