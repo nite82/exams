@@ -1,0 +1,78 @@
+{
+  "pendingexams": {
+    "pendingexams": [
+      {
+        "id": 1,
+        "name": "Sample Paper 1",
+        "time": 30,
+        "date": "28/04/2018"
+      },
+      {
+        "id": 2,
+        "name": "Sample Paper 2",
+        "time": 60,
+        "date": "30/04/2018"
+      },
+      {
+        "id": 3,
+        "name": "Sample Paper 3",
+        "time": 90,
+        "date": "02/05/2018"
+      }
+    ]
+  },
+  "exam": {
+    "exam": [
+      {
+        "id": 1,
+        "question": "What is an Input Device",
+        "option1": "Keyboard1",
+        "option2": "Printer",
+        "option3": "Monitor",
+        "option4": "Harddisk",
+        "correctanswer": "option1",
+        "studentanswer": ""
+      },
+      {
+        "id": 2,
+        "question": "What is an Output Device",
+        "option1": "Keyboard",
+        "option2": "Printer",
+        "option3": "Mouse",
+        "option4": "Trackpad",
+        "correctanswer": "option2",
+        "studentanswer": ""
+      },
+      {
+        "id": 3,
+        "question": "What is an Device",
+        "option1": "Keyboard",
+        "option2": "aaa",
+        "option3": "bbb",
+        "option4": "ccc",
+        "correctanswer": "option1",
+        "studentanswer": ""
+      }
+    ]
+  },
+  "user": [
+    {
+      "id": 1,
+      "username": "nitesh",
+      "userphone": "1231231231",
+      "useremail": "nitesh@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "nitesh",
+      "userphone": "1231231231",
+      "useremail": "nitesh@gmail.com"
+    },
+    {
+      "id": "3",
+      "username": "sdf",
+      "userphone": "sdf",
+      "useremail": "234"
+    }
+  ]
+}
